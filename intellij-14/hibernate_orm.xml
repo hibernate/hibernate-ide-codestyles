@@ -160,6 +160,7 @@
     <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="PREFER_PARAMETERS_WRAP" value="true" />

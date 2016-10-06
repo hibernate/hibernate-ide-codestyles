@@ -19,6 +19,15 @@ On Linux it is:
 On Windows:
  - <User home>\.IntelliJIdea14\config\codestyles
 
+Importing code styles can also be done through the UI.
+
+To do so:
+
+ * go to `IntelliJ IDEA` -> `Preferences` on a Mac or `File` -> `Settings` on Windows
+ * then to `Editor` -> `Code Style` -> `Java` and click `Manage`
+ * in the `Code Style Schemas` dialog, press `Import` and add the provided XML file
+ * after that, select the imported schema from the `Schema` dropdown
+
 ## Importing in Eclipse
 
 In Eclipse, you import the three provided files from within the UI.
