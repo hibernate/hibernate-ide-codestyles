@@ -19,6 +19,12 @@ On Linux it is:
 On Windows:
  - <User home>\.IntelliJIdea14\config\codestyles
 
+Also importing of profile can be done through the UI as well. To do it go to
+ `IntelliJ IDEA` -> `Preferences` on a Mac or `File` -> `Settings` on Windows,
+ then to `Editor` -> `Code Style` -> `Java` and click `Manage`.
+ In `Code Style Schemas` dialog press import and add the provided xml.
+ After that select imported schema from `Schema` dropdown.
+
 ## Importing in Eclipse
 
 In Eclipse, you import the three provided files from within the UI.
