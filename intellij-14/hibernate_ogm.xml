@@ -1,53 +1,9 @@
-<code_scheme name="hibernate-ogm-style">
+<code_scheme name="hibernate-ogm-style" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
-  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-  <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-    <value />
-  </option>
-  <option name="IMPORT_LAYOUT_TABLE">
-    <value>
-      <package name="" withSubpackages="true" static="true" />
-      <emptyLine />
-      <package name="java" withSubpackages="true" static="false" />
-      <package name="javax" withSubpackages="true" static="false" />
-      <emptyLine />     
-      <package name="org.hibernate" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="org.hibernate.testing" withSubpackages="true" static="false" />
-      <package name="org.hibernate.test" withSubpackages="true" static="false" />
-      <package name="org.junit" withSubpackages="true" static="false" />
-      <package name="junit" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="org.infinispan" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="org.jboss" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="org.logicalcobwebs" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="org.osgi" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="org.slf4j" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="" withSubpackages="true" static="false" />
-    </value>
-  </option>
-  <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
-  <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
-  <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
-  <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
-  <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
   <option name="ELSE_ON_NEW_LINE" value="true" />
   <option name="CATCH_ON_NEW_LINE" value="true" />
   <option name="FINALLY_ON_NEW_LINE" value="true" />
@@ -78,7 +34,45 @@
   <option name="DOWHILE_BRACE_FORCE" value="3" />
   <option name="WHILE_BRACE_FORCE" value="3" />
   <option name="FOR_BRACE_FORCE" value="3" />
-  
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="" withSubpackages="true" static="true" />
+        <emptyLine />
+        <package name="java" withSubpackages="true" static="false" />
+        <package name="javax" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.hibernate" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.hibernate.testing" withSubpackages="true" static="false" />
+        <package name="org.hibernate.test" withSubpackages="true" static="false" />
+        <package name="org.junit" withSubpackages="true" static="false" />
+        <package name="junit" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.infinispan" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.jboss" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.logicalcobwebs" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.osgi" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.slf4j" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="false" />
+      </value>
+    </option>
+    <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+    <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+    <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
+    <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+    <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
+  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -88,7 +82,6 @@
   <ADDITIONAL_INDENT_OPTIONS fileType="yml">
     <option name="INDENT_SIZE" value="2" />
   </ADDITIONAL_INDENT_OPTIONS>
- 
   <codeStyleSettings language="JAVA">
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
@@ -122,10 +115,8 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <option name="PARENT_SETTINGS_INSTALLED" value="true" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
-  
 </code_scheme>
