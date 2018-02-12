@@ -87,7 +87,7 @@
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_WITHIN_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
