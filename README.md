@@ -2,6 +2,19 @@
 
 This repository contains the IDE settings for Eclipse and Intellij IDEA.
 
+> [!WARNING]
+> This repository only contains the historical code styles.
+> Most of the Hibernate projects evolved to leverage automatic code formatting
+> and checks.
+> 
+> Please refer to the specific project repository and its contributing guide
+> for up-to-date information:
+> * https://github.com/hibernate/hibernate-orm
+> * https://github.com/hibernate/hibernate-validator
+> * https://github.com/hibernate/hibernate-search
+> * https://github.com/hibernate/hibernate-reactive
+> * https://github.com/hibernate/hibernate-tools
+
 Import these in your IDE if you plan to make changes to the Hibernate source code,
 so that you can follow consistent formatting and style conventions with every
 other contributor.
